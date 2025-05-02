@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module4"
 Sub ResetSheet()
     Dim shp As Shape
     Dim ws As Worksheet
